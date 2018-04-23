@@ -4,7 +4,7 @@
  */
 var massive = require('massive');
 const connectionParms = {
-  host: 'smtpgsdev01.isus.emc.com',
+  host: '10.146.85.68',
   port: 5432,
   database: 'postgres',
   user: 'smtdev',
